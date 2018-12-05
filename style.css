@@ -1,0 +1,26 @@
+html, body {
+  height: 100%;
+  margin: 0px;
+  background-color: #666;
+  background-size: cover;
+  background-position: bottom center;
+  color: #FFF;
+}
+.main {
+  height: 100%;
+  width: 100%;
+  display: table;
+}
+.wrapper {
+  display: table-cell;
+  text-align: center;
+  height: 100%;
+  font-size: 8em;
+  font-family: 'Little Brushy', sans;
+  vertical-align: middle;
+}
+
+.input,
+.button {
+  height: 1em;
+}
